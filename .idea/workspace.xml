@@ -16,6 +16,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -27,8 +34,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Modules_and_Pip_test">
+    <configuration name="Comments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Comments.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -49,6 +56,120 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Modules_and_Pip_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules_and_Pip_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Readingfiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Readingfiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Try_Exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\编程\python_learning\day1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Modules_and_Pip_test" />
+        <item itemvalue="Python.Readingfiles" />
+        <item itemvalue="Python.Try_Exception" />
+        <item itemvalue="Python.Comments" />
+        <item itemvalue="Python.map" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,23 +192,44 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2561" height="384" key="GridCell.Tab.0.bottom" timestamp="1601651271441">
-      <screen x="1920" y="0" width="2560" height="1410" />
+    <state x="1010" y="265" key="#Notifications" timestamp="1601909346364">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="2561" height="384" key="GridCell.Tab.0.bottom/1920.0.2560.1410/0.0.1920.1050@1920.0.2560.1410" timestamp="1601651271441" />
-    <state width="2561" height="384" key="GridCell.Tab.0.center" timestamp="1601651271441">
-      <screen x="1920" y="0" width="2560" height="1410" />
+    <state x="1010" y="265" key="#Notifications/1920.0.2560.1410/0.0.1920.1050@0.0.1920.1050" timestamp="1601909346364" />
+    <state x="1032" y="288" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601908642066">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="2561" height="384" key="GridCell.Tab.0.center/1920.0.2560.1410/0.0.1920.1050@1920.0.2560.1410" timestamp="1601651271441" />
-    <state width="2561" height="384" key="GridCell.Tab.0.left" timestamp="1601651271441">
-      <screen x="1920" y="0" width="2560" height="1410" />
+    <state x="1032" y="288" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.2560.1410/0.0.1920.1050@0.0.1920.1050" timestamp="1601908642066" />
+    <state x="1140" y="382" key="Github.CreateGistDialog" timestamp="1601909325977">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="2561" height="384" key="GridCell.Tab.0.left/1920.0.2560.1410/0.0.1920.1050@1920.0.2560.1410" timestamp="1601651271441" />
-    <state width="2561" height="384" key="GridCell.Tab.0.right" timestamp="1601651271441">
-      <screen x="1920" y="0" width="2560" height="1410" />
+    <state x="1140" y="382" key="Github.CreateGistDialog/1920.0.2560.1410/0.0.1920.1050@0.0.1920.1050" timestamp="1601909325977" />
+    <state width="500" height="105" key="GridCell.Tab.0.bottom" timestamp="1601909667833">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="2561" height="384" key="GridCell.Tab.0.right/1920.0.2560.1410/0.0.1920.1050@1920.0.2560.1410" timestamp="1601651271441" />
+    <state width="500" height="105" key="GridCell.Tab.0.bottom/1920.0.2560.1410/0.0.1920.1050@0.0.1920.1050" timestamp="1601909667833" />
+    <state width="2561" height="384" key="GridCell.Tab.0.bottom/1920.0.2560.1410/0.0.1920.1050@1920.0.2560.1410" timestamp="1601653297795" />
+    <state width="500" height="105" key="GridCell.Tab.0.center" timestamp="1601909667833">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="500" height="105" key="GridCell.Tab.0.center/1920.0.2560.1410/0.0.1920.1050@0.0.1920.1050" timestamp="1601909667833" />
+    <state width="2561" height="384" key="GridCell.Tab.0.center/1920.0.2560.1410/0.0.1920.1050@1920.0.2560.1410" timestamp="1601653297794" />
+    <state width="500" height="105" key="GridCell.Tab.0.left" timestamp="1601909667833">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="500" height="105" key="GridCell.Tab.0.left/1920.0.2560.1410/0.0.1920.1050@0.0.1920.1050" timestamp="1601909667833" />
+    <state width="2561" height="384" key="GridCell.Tab.0.left/1920.0.2560.1410/0.0.1920.1050@1920.0.2560.1410" timestamp="1601653297794" />
+    <state width="500" height="105" key="GridCell.Tab.0.right" timestamp="1601909667833">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="500" height="105" key="GridCell.Tab.0.right/1920.0.2560.1410/0.0.1920.1050@0.0.1920.1050" timestamp="1601909667833" />
+    <state width="2561" height="384" key="GridCell.Tab.0.right/1920.0.2560.1410/0.0.1920.1050@1920.0.2560.1410" timestamp="1601653297794" />
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1601799699712">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="453" y="-2" width="1009" height="1470" key="search.everywhere.popup/1920.0.2560.1410/0.0.1920.1050@0.0.1920.1050" timestamp="1601799699712" />
   </component>
 </project>
